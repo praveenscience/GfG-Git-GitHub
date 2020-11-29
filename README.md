@@ -10,5 +10,3 @@ Today we are learning the basics of Git & GitHub, how it works, etc. as a part o
 
 * Prerana Prabhu
 * Praveen Kumar Purushothaman
-
-
