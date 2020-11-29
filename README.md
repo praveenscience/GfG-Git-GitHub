@@ -1,5 +1,11 @@
-# GfG Git & GitHub
+# Git & GitHub for Absolute Beginners
 
 ## Introduction
 
-Part of Praveen's YouTube Live Stream on Git & GitHub for Beginners.
+Today we are learning the basics of Git & GitHub, how it works, etc. as a part of [Praveen's Live Stream](https://youtu.be/fXB2wkn3TlE).
+
+### Community
+
+### Hosts
+
+
