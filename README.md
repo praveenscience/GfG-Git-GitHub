@@ -8,8 +8,7 @@ Today we are learning the basics of Git & GitHub, how it works, etc. as a part o
 
 ### Hosts
 
-* PRERANA PRABHU
-* PRAVEEN KUMR PURSHOTHAM
-
+* Prerana Prabhu
+* Praveen Kumar Purushothaman
 
 
